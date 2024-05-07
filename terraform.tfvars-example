@@ -1,0 +1,18 @@
+project_id = ""
+
+metal_cluster = {
+  "amsterdam" = {
+    plan             = "m3.small.x86"
+    metro            = "am"
+    operating_system = "ubuntu_22_04"
+    billing_cycle    = "hourly"
+    region           = "emea"
+  },
+  "amsterdam" = {
+    plan             = "m3.small.x86"
+    metro            = "am"
+    operating_system = "ubuntu_22_04"
+    billing_cycle    = "hourly"
+    region           = "emea"
+  }
+}
